@@ -10,6 +10,6 @@ I would like to thank him a lot </p>
 <p>Our Team --></p>
 
 <ol>
- Ansh Arora
-  Hardik Aggarwal
+ <li>Ansh Arora</li>
+<li>Hardik Aggarwal</li>
 </ol>
